@@ -1,0 +1,7 @@
+IPC method: fifo, iterations: 1000
+        Size     AvgLatency(us)   Throughput(MB/s)
+           1             82.318              0.023
+          64             79.736              1.531
+        1024             94.138             20.747
+       65536            126.980            984.408
+     1048576           1101.270           1816.086

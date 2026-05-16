@@ -1,0 +1,7 @@
+IPC method: unix, iterations: 1000
+        Size     AvgLatency(us)   Throughput(MB/s)
+           1            100.858              0.019
+          64             89.541              1.363
+        1024             88.908             21.968
+       65536            207.500            602.410
+     1048576           2378.247            840.956

@@ -1,0 +1,7 @@
+IPC method: msgq, iterations: 1000
+        Size     AvgLatency(us)   Throughput(MB/s)
+           1             92.521              0.021
+          64             95.159              1.283
+        1024            131.828             14.816
+       65536            842.669            148.338
+     1048576          12295.517            162.661

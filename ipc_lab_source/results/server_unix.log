@@ -1,0 +1,3 @@
+Unix domain socket server started.
+Unix socket server receives: hello from client
+Unix domain socket server stopped.

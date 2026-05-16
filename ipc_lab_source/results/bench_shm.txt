@@ -1,0 +1,7 @@
+IPC method: shm, iterations: 1000
+        Size     AvgLatency(us)   Throughput(MB/s)
+           1             48.374              0.039
+          64             53.992              2.261
+        1024             56.339             34.667
+       65536            101.898           1226.714
+     1048576            425.618           4699.048

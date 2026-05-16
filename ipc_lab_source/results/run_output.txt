@@ -1,0 +1,28 @@
+===== fifo demo =====
+Client receives echo: hello from client
+----- server log fifo -----
+FIFO server started.
+FIFO server receives: hello from client
+FIFO server stopped.
+
+===== unix demo =====
+Client receives echo: hello from client
+----- server log unix -----
+Unix domain socket server started.
+Unix socket server receives: hello from client
+Unix domain socket server stopped.
+
+===== msgq demo =====
+Client receives a message from 2275!
+----- server log msgq -----
+Message queue server started. msgqid=1
+Server receives a message from 2277!
+Message queue server stopped.
+
+===== shm demo =====
+Client receives echo: hello from client
+----- server log shm -----
+Shared memory server started.
+Shared memory server receives: hello from client
+Shared memory server stopped.
+
